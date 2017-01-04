@@ -1,0 +1,3 @@
+FILE=index.html
+VERSION_URL=http://www.makemkv.com/download/
+WEBVERSION='grep -m 1 "MakeMKV v" $FILE | sed -e "s/.*MakeMKV v//;s/ (.*//"'
