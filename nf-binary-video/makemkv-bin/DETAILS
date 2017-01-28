@@ -4,7 +4,7 @@
 SOURCE_DIRECTORY=$BUILD_DIRECTORY/$SPELL-$VERSION
    SOURCE_URL[0]=http://www.makemkv.com/download/$SOURCE
         WEB_SITE=http://www.makemkv.com
-     SOURCE_HASH=sha512:6a792703ae4ab978ebe7a71e9d9f2c298e230168c2701fd2f7fab724f31a1c83388bae408c253a75504c73b9e25f9fb0ba48d5697cfa1f7ae39df133444983c4
+     SOURCE_HASH=sha512:00482428a6374e37912e0537c1e876b478a5eb9e0a26476b01f74f93c0605ed7aa3547599287211f17dd2d511e5bebf60605e05d0064f501816fdfccd964b98c
       LICENSE[0]=GPL
          ENTERED=20161228
         KEYWORDS="dvd video"
@@ -13,4 +13,5 @@ cat << EOF
 HandBrake is an open-source, GPL-licensed, multiplatform, multithreaded video
 transcoder, available for MacOS X, Linux and Windows.
 EOF
+
 
